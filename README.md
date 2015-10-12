@@ -21,3 +21,5 @@ collection of awesome cheat sheet for development
 ### [Chrome Devtools 速查表](http://anti-code.com/devtools-cheatsheet/)
 
 ### [Ruby速查表](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
+
+### [cheat-sheets.org](http://www.cheat-sheets.org/)
