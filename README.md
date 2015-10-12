@@ -22,4 +22,8 @@ collection of awesome cheat sheet for development
 
 ### [Ruby速查表](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
 
+### Git速查表
+![git](/image/git.jpg)
+![git](/image/git_cheat_sheet.jpg)
+
 ### [cheat-sheets.org](http://www.cheat-sheets.org/)
