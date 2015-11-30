@@ -30,6 +30,5 @@ collection of awesome cheat sheet for development
 
 ### [cheat-sheets.org](http://www.cheat-sheets.org/)
 
-### [CheatSheet
-](http://www.mediaatelier.com/CheatSheet/)
+### [CheatSheet](http://www.mediaatelier.com/CheatSheet/)
 > Mac平台App  长按command键可以快速显示当前打开应用快捷键
