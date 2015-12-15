@@ -1,6 +1,8 @@
 # Awesome-Cheat-Sheet
 collection of awesome cheat sheet for development
 
+### [Vim速查表](http://sheet.shiar.nl/vi)
+
 ### [HTML5速查表](http://websitesetup.org/html5-cheat-sheet/)
 
 
