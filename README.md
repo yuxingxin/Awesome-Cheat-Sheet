@@ -27,6 +27,9 @@ collection of awesome cheat sheet for development
 ### [GitHub cheat sheet](https://training.github.com/kit/downloads/cn/github-git-cheat-sheet.html)
 
 ### Git速查表
+
+#### [Git Cheat Sheet](https://shfshanyue.github.io/cheat-sheets/git)
+
 ![git](/image/git.jpg)
 ![git](/image/git_cheat_sheet.jpg)
 
